@@ -16,7 +16,7 @@
     "docs:serve": "vitepress serve docs"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^2.4.6",
+    "@sveltejs/vite-plugin-svelte": "^3.1.1",
     "autoprefixer": "^10.4.15",
     "ist": "^1.1.7",
     "postcss": "^8.4.29",
